@@ -14,3 +14,13 @@ Uma aplicação de toolbar para Windows com botões configuráveis. A barra perm
 ## Instalação
 1. Clone o repositório ou baixe os arquivos.
 2. Instale as dependências com o comando:
+3. 
+```
+pip install -r requirements.txt
+```
+
+3. Execute a aplicação:
+   
+ ```
+python toolbar/app.py
+ ```
